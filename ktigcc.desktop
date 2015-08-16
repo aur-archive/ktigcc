@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ktigcc
+Comment=TI Development Environement
+Icon=ktigcc
+Exec=/opt/tigcc/bin/ktigcc
+Type=Application
+Terminal=false
+Categories=Development;IDE;
+StartupNotify=true
